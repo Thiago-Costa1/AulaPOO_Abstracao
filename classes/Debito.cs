@@ -8,7 +8,7 @@ namespace Nova_pasta.classes
         internal string numero;
         internal string titular;
         internal string cvv;
-        private float saldo = 900;
+        private float saldo = 600;
         public float SaldoNaConta{
             get{return saldo;}
             set{saldo = value;}

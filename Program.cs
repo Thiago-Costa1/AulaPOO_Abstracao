@@ -18,7 +18,6 @@ namespace Nova_pasta
             do
             {   Console.WriteLine("Selecione uma das opções abaixo");
                
-                Console.WriteLine("[0] - Sair");
                 Console.WriteLine("[1] - Salvar cartão ");
                 Console.WriteLine("[2] - Registrar boleto");
                 Console.WriteLine("[3] - Pagar");
@@ -32,8 +31,8 @@ namespace Nova_pasta
                         Console.WriteLine("Para salvar selecione um cartão: ");
                         Console.WriteLine("[1] - Crédito");
                         Console.WriteLine("[2] - Débito");
-                        int escolha2 = int.Parse(Console.ReadLine());
-                        switch (escolha2)
+                        int escolha1 = int.Parse(Console.ReadLine());
+                        switch (escolha1)
                         {
                             case 1:
                                 Console.Write("Digite a bandeira: ");
@@ -164,11 +163,7 @@ namespace Nova_pasta
                         }
                         break;
 
-                    case 0:
-                        Console.WriteLine("O programa foi concluído. ");
-                        break;
-                    default:
-                        break;
+                
                 }
             } while (resposta == "s");
 
