@@ -24,3 +24,16 @@ C:\Users\dev\Desktop\Nova_Pasta\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\Nova p
 C:\Users\dev\Desktop\Nova_Pasta\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\Nova pasta.dll
 C:\Users\dev\Desktop\Nova_Pasta\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\Nova pasta.pdb
 C:\Users\dev\Desktop\Nova_Pasta\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\Nova pasta.genruntimeconfig.cache
+C:\Users\washi\Desktop\Nova_pasta\AulaPOO_Abstracao\bin\Debug\netcoreapp3.1\Nova pasta.exe
+C:\Users\washi\Desktop\Nova_pasta\AulaPOO_Abstracao\bin\Debug\netcoreapp3.1\Nova pasta.deps.json
+C:\Users\washi\Desktop\Nova_pasta\AulaPOO_Abstracao\bin\Debug\netcoreapp3.1\Nova pasta.runtimeconfig.json
+C:\Users\washi\Desktop\Nova_pasta\AulaPOO_Abstracao\bin\Debug\netcoreapp3.1\Nova pasta.runtimeconfig.dev.json
+C:\Users\washi\Desktop\Nova_pasta\AulaPOO_Abstracao\bin\Debug\netcoreapp3.1\Nova pasta.dll
+C:\Users\washi\Desktop\Nova_pasta\AulaPOO_Abstracao\bin\Debug\netcoreapp3.1\Nova pasta.pdb
+C:\Users\washi\Desktop\Nova_pasta\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\Nova pasta.csprojAssemblyReference.cache
+C:\Users\washi\Desktop\Nova_pasta\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\Nova pasta.AssemblyInfoInputs.cache
+C:\Users\washi\Desktop\Nova_pasta\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\Nova pasta.AssemblyInfo.cs
+C:\Users\washi\Desktop\Nova_pasta\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\Nova pasta.csproj.CoreCompileInputs.cache
+C:\Users\washi\Desktop\Nova_pasta\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\Nova pasta.dll
+C:\Users\washi\Desktop\Nova_pasta\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\Nova pasta.pdb
+C:\Users\washi\Desktop\Nova_pasta\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\Nova pasta.genruntimeconfig.cache

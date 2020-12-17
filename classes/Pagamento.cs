@@ -8,7 +8,7 @@ namespace Nova_pasta.classes
         protected float valor;
 
         public string Cancelar(){
-            return $"Cancelamento feito!!";
+            return $"Cancelado com sucesso!";
         }
 
         public abstract string Desconto(float valor);

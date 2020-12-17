@@ -136,9 +136,9 @@ namespace Nova_pasta
                         Console.WriteLine("Selecione uma opção para mostrar os dados dos seguites cartões: ");
                         Console.WriteLine("[1] - Crédito");
                         Console.WriteLine("[2] - Débito");
-                        int escolha3 = int.Parse(Console.ReadLine());
+                        int escolha2 = int.Parse(Console.ReadLine());
 
-                        switch (escolha3)
+                        switch (escolha2)
                         {
                             case 1:
                                 Console.WriteLine(cre.SalvarCartao());
@@ -161,11 +161,10 @@ namespace Nova_pasta
                                 resposta = Console.ReadLine();
                                 break;
                         }
-                        break;
-
+                        break;             
+            }
+             }while (resposta == "s");
                 
-                }
-            } while (resposta == "s");
 
         }
     }

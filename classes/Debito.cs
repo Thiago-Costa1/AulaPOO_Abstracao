@@ -2,12 +2,8 @@ using System;
 
 namespace Nova_pasta.classes
 {
-    public class Debito
+    public class Debito : Cartao
     {
-        internal string bandeira;
-        internal string numero;
-        internal string titular;
-        internal string cvv;
         private float saldo = 600;
         public float SaldoNaConta{
             get{return saldo;}
@@ -19,14 +15,7 @@ namespace Nova_pasta.classes
             Console.WriteLine($"Você fez um pagamento de R${valor}");
         }
 
-        internal bool Cancelar()
-        {
-            throw new NotImplementedException();
-        }
-
-        internal bool SalvarCartao()
-        {
-            throw new NotImplementedException();
-        }
+       
+        
     }
 }
